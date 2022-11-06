@@ -1,0 +1,48 @@
+
+.header{
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+    background: #9BD2DE;
+}
+
+.imgLogo{
+    display: flex;
+    align-items: center;
+    width: 143px;
+    justify-content: space-between;
+
+}
+
+.Menu{
+    width: 375px;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.Menu a{
+    text-decoration: none;
+    color: black;
+}
+
+.filmes{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 48px;
+    
+    color: #616162;
+    
+}
+.coletanea{
+    max-width: 443px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 29px;
+
+}
